@@ -1,0 +1,35 @@
+body {
+    background-image:url(./assets/images/wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    min-height: 100%;  
+}
+
+img {
+    border-radius: 50%;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul li {
+    font-size: 20px;
+}
+
+ul li a {
+    font-size: 30px;
+    color: greenyellow;
+}
+
+h3 a {
+    font-size: 25px;
+    color: greenyellow;
+}
+
+footer {
+    clear: both;
+    position: relative;
+    padding-top: 50px;
+}
