@@ -2,8 +2,7 @@ body {
     background-image:url(./assets/images/wallpaperflare.com_wallpaper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
-    min-height: 100%;  
+    color: white;  
 }
 
 img {
@@ -29,7 +28,5 @@ h3 a {
 }
 
 footer {
-    clear: both;
-    position: relative;
-    padding-top: 50px;
+    margin-top: 30%;
 }
